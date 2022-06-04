@@ -19,7 +19,7 @@ const valentineBassey = {
   'I play badminton during my free time.']
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idungstanley)](https://github.com/awasevalentine/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awasevalentine)](https://github.com/awasevalentine/github-readme-stats)
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
@@ -35,7 +35,7 @@ const valentineBassey = {
 <p>You can check out my portfolio <a href="https://valentine-bassey.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <!--
-**idungstanley/idungstanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Valentine Bassey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
