@@ -13,10 +13,10 @@ const valentineBassey = {
   😄 pronouns: ["He", "him"],
   code: [JavaScript,TypeScript, Angular, Python, React, Redux, Node.js, NestJs, ExpressJs, HTML/CSS, Semantic UI, Bootstrap, Angular Material, Material UI, Embedded System Design],
   💬 askMeAbout: [Politics, Opinions, , renovation shows],
-  challenge: "I am honing my React skills and picking up Node.js",
- ⚡ funFacts: ['I have 3+ years of remote work experience with devs 
+  challenge: "I am honing my Python skills",
+ ⚡ funFacts: ['I have 2+ years of remote work experience with devs 
   from all over the world', 
-  'I play badminton during my free time.']
+]
 }
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awasevalentine)](https://github.com/awasevalentine/github-readme-stats)
