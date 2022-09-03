@@ -38,14 +38,14 @@ Platform & DevTools: [Nodejs, Vscode, Postman, Atom, ChromeDev Tool, Docker, Kub
   <br/>
 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awasevalentine)](https://github.com/awasevalentine/github-readme-stats)
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-<!--START_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awasevalentine)](https://github.com/awasevalentine/github-readme-stats)
 
+-->
 [![Valentine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awasevalentine)](https://github.com/awasevalentine/github-readme-stats)
 
 <!--END_SECTION:waka-->
