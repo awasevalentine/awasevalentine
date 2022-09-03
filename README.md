@@ -2,7 +2,7 @@
 
 
 ### You can also connect with me on: 
-<div margin='40px' align='center'>
+<div style='margin-left: 40px;' align='center' &nbsp>
 <a href="https://www.linkedin.com/in/valentine-bassey/"><img src="icons/linkedin.png" target="_blank"></a>
 <a href="https://twitter.com/barron_x_marron"><img src="icons/twitter.png" target="_blank"></a>
 <a href="https://web.facebook.com/valentine.bassey.12"><img src="icons/facebook.png" target="_blank"></a>
