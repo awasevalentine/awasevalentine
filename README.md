@@ -1,9 +1,11 @@
-<h2> Hi, I'm Valentine Bassey! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>Enthusiastic Full-stack web developer keen on finding solutions to problems</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<h2> Hi, I'm Valentine Bassey! I am a fullstack engineer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Valentine%20Bassey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentine-bassey-88426815a/)](https://www.linkedin.com/in/valentine-bassey-88426815a/)
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbarron_x_marron)](https://twitter.com/barron_x_marron)[![wakatime](https://wakatime.com/badge/user/eb2e75b6-4e52-4092-aa71-f046a6dcb4e3.svg)](https://wakatime.com/@eb2e75b6-4e52-4092-aa71-f046a6dcb4e3)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+### You can also connect with me on: 
+<a href="https://www.linkedin.com/in/valentine-bassey/"><img src="icons/linkedin.png" target="_blank"></a></br>
+<a href="https://twitter.com/barron_x_marron"><img src="icons/twitter.png" target="_blank"></a></br>
+<a href="https://web.facebook.com/valentine.bassey.12"><img src="icons/facebook.png" target="_blank"></a></br>
+<a href="mailto:Awasevalentine@gmail.com"><img src="icons/gmail.png" target="_blank"></a></br>
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
