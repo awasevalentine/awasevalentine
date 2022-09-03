@@ -15,7 +15,7 @@ About Me:
 - Facebook **<a href="https://web.facebook.com/valentine.bassey.12" target="_blank"><img src="icons/facebook.png" width="20" height="20"></a>**
 
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 Languages I've Used: [ JavaScript, TypeScript, Python, HTML, CSS ].
