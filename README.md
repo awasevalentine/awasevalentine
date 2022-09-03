@@ -1,13 +1,15 @@
 <h2> Hi, I'm Valentine Bassey! I am a fullstack engineer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
 
-### You can also connect with me on: 
-<p align='left'>
-<a href="https://www.linkedin.com/in/valentine-bassey/"><img src="icons/linkedin.png" target="_blank"></a>
-<a href="https://twitter.com/barron_x_marron"><img src="icons/twitter.png" target="_blank"></a>
-<a href="https://web.facebook.com/valentine.bassey.12"><img src="icons/facebook.png" target="_blank"></a>
+## You can also connect with me on: 
+<a href="https://www.linkedin.com/in/valentine-bassey/"><img src="icons/linkedin.png" target="_blank"></a><br>
+
+<a href="https://twitter.com/barron_x_marron"><img src="icons/twitter.png" target="_blank">
+</a><br>
+
+<a href="https://web.facebook.com/valentine.bassey.12"><img src="icons/facebook.png" target="_blank"></a><br>
+
 <a href="mailto:Awasevalentine@gmail.com"><img src="icons/gmail.png" target="_blank"></a>
-</p>
 
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
