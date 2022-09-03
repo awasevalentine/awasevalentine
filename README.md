@@ -34,8 +34,10 @@ Platform & DevTools: [Nodejs, Vscode, Postman, Atom, ChromeDev Tool, Docker, Kub
 
   <br/>
     <a href="https://github.com/awasevalentine/github-readme-stats"><img alt="Valentine Bassey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=awasevalentine&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/awasevalentine/github-readme-stats"><img alt="Valentine Bassey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasevalentine&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/awasevalentine/github-readme-stats"><img alt="Valentine Bassey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awasevalentine&langs_count=6&hide=shell,handlebars,procfile&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
+
 
 
 <!--
@@ -44,6 +46,8 @@ Platform & DevTools: [Nodejs, Vscode, Postman, Atom, ChromeDev Tool, Docker, Kub
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awasevalentine)](https://github.com/awasevalentine/github-readme-stats)
+
+
 
 -->
 [![Valentine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awasevalentine)](https://github.com/awasevalentine/github-readme-stats)
