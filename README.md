@@ -3,8 +3,8 @@
 
 About Me:
 
-- 🔭 I’m currently working on **<a href="https://hillsbaygroup.com/" target="_blank">Hillsbay Hotel</a>**
-- 🌱 I’m currently learning **Microservices & Algorithm**
+- 🔭 I’m currently working on **<a href="https://zillow.com/" target="_blank">ZProp Tenancy APP</a>**
+- 🌱 I’m currently learning **Apollo-Grahpql Federation**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🤔 You can also visit **<a href="https://valentine-bassey.netlify.app/">My Portfolio</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="30" height="25">**
 - 📧 You can reach me at **<a href="mailto:Awasevalentine@gmail.com"><img src="icons/gmail.png" target="_blank"></a>**
@@ -18,15 +18,15 @@ About Me:
 ### A little more about me...  
 
 ```javascript
-Languages I've Used: [ JavaScript, TypeScript, Python, HTML, CSS ].
+Languages I've Used: [ JavaScript, TypeScript, PHP, HTML, CSS ].
 
 FrontEnd FrameWorks I've Used: [ Angular, React, NextJs ]
 
-BackEnd FrameWorks I've Used: [ NestJs, Express ]
+BackEnd FrameWorks I've Used: [ Nest.js, Express, GraphQl ]
 
-Some Libraries I've used: [ Redux, Bootstrap, Angular Material, Chakra UI ]
+Some Libraries I've used: [ Redux, Recoil, Material-Ui, Bootstrap, Angular Material, Chakra UI ]
 
-DataBase: [ MYSQL, MongoDB, Redis ]
+DataBase: [ MYSQL, MongoDB, Postgres, Redis ]
 
 Platform & DevTools: [Nodejs, Vscode, Postman, Atom, ChromeDev Tool, Docker, Kubernete]
 
