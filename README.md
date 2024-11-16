@@ -3,8 +3,8 @@
 
 About Me:
 
-- 🔭 I’m currently working on **<a href="https://zillow.com/" target="_blank">ZProp Tenancy APP</a>**
-- 🌱 I’m currently learning **Apollo-Grahpql Federation**
+- 🔭 I’m currently working on **<a href="https://www.medscroll.ai/" target="_blank">MedScroll AI</a>**
+- 🌱 I’m currently learning **Laravel**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🤔 You can also visit **<a href="https://valentine-bassey.netlify.app/">My Portfolio</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="30" height="25">**
 - 📧 You can reach me at **<a href="mailto:Awasevalentine@gmail.com"><img src="icons/gmail.png" target="_blank"></a>**
